@@ -1,0 +1,3 @@
+- name: Hello world
+  anisble.buildin.debug:
+    msg: "Hi from Roles"
